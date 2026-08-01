@@ -1,0 +1,7 @@
+name: MinigamesCore
+version: 1.0
+main: nl.corne.minigames.MinigameCorePlugin
+api-version: 1.20
+commands:
+  games:
+    description: Open the minigame selection menu.
